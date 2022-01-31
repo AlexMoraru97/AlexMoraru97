@@ -9,8 +9,14 @@
 <br />
 
 ## 💻 About Me 
+Fluent italian, romanian and english speaker.
+I lived in Italy for 18 years, 7 in Romania.
+I started coding in highschool by learning basic programming with Visual Basic, PHP, HTML, SQL.
+I learned about object oriented programming at the university where I learned C++.
+I've worked for an Italian company for 2 years where I learned about threads, memory management, working with memory streams and encoded files using Delphi Berlin/Tokyo/Rio.
+While working for this company I also acquired basic to intermediate skills in using Cinema4D (for 3D modeling) , GIMP(for image editing), InkScape(for creating vector graphics) and Camtasia(to make videos for the 2 software documentations I wrote ).
+After coming back to Romania I studied at Codecool because I wanted to get acquainted with modern technologies and reach an advanced level with the ones i was already acquainted;
 
-I started coding in February 2021. I am passionate about learning new things and I want to grow and improve as much as possible in the area of software development.
 
 <br />
 
